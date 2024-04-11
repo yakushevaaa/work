@@ -1,0 +1,7 @@
+**/.vs
+**/bin/Debug/net8.0
+**/obj
+*.DS_Store
+*.csproj
+*.sln
+*.idea
